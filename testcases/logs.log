@@ -1,0 +1,50 @@
+02/08/21 05:12:06 PM INFO getElement get element sucess
+02/08/21 05:12:06 PM INFO getElement get element sucess
+02/08/21 05:12:06 PM INFO getElement get element sucess
+02/08/21 05:12:07 PM INFO getElement get element sucess
+02/08/21 05:12:07 PM INFO getElement get element sucess
+02/08/21 05:12:07 PM INFO getElement get element sucess
+02/08/21 05:12:07 PM INFO getElement get element sucess
+02/08/21 05:12:07 PM INFO getElement get element sucess
+02/08/21 05:12:07 PM INFO getElement get element sucess
+02/08/21 05:12:07 PM INFO getElement get element sucess
+02/08/21 05:12:07 PM INFO getElement get element sucess
+02/08/21 05:12:07 PM INFO getElement get element sucess
+02/08/21 05:12:07 PM INFO getElement get element sucess
+02/08/21 05:12:07 PM INFO getElement get element sucess
+02/08/21 05:12:07 PM INFO getElement get element sucess
+02/08/21 05:12:07 PM INFO getElement get element sucess
+02/08/21 05:12:07 PM INFO getElement get element sucess
+02/08/21 05:12:07 PM INFO getElement get element sucess
+02/08/21 05:12:07 PM INFO getElement get element sucess
+02/08/21 05:12:07 PM INFO getElement get element sucess
+02/08/21 05:12:07 PM INFO getElement get element sucess
+02/08/21 05:12:07 PM INFO getElement get element sucess
+02/08/21 05:12:07 PM INFO getElement get element sucess
+02/08/21 05:12:07 PM INFO getElement get element sucess
+02/08/21 05:12:07 PM INFO getElement get element sucess
+02/08/21 05:12:07 PM INFO getElement get element sucess
+02/08/21 05:12:07 PM INFO getElement get element sucess
+02/08/21 05:12:07 PM INFO getElement get element sucess
+02/08/21 05:12:07 PM INFO getElement get element sucess
+02/08/21 05:12:07 PM INFO getElement get element sucess
+02/08/21 05:12:07 PM INFO getElement get element sucess
+02/08/21 05:12:07 PM INFO getElement get element sucess
+02/08/21 05:12:07 PM INFO getElement get element sucess
+02/08/21 05:12:07 PM INFO getElement get element sucess
+02/08/21 05:12:07 PM INFO getElement get element sucess
+02/08/21 05:12:07 PM INFO getElement get element sucess
+03/08/21 05:32:50 PM ERROR getElement Typing values failed for the element: //div[@id='root']//div[Contains(text(),'NEW CARS')] xpath
+03/08/21 05:33:03 PM ERROR getElement Typing values failed for the element: //div[@id='root']//div[Contains(text(),'NEW CARS')] xpath
+03/08/21 05:33:03 PM ERROR getElement Typing values failed for the element: //div[@id='root']//div[Contains(text(),'NEW CARS')] xpath
+03/08/21 05:33:15 PM ERROR getElement Typing values failed for the element: //div[@id='root']//div[Contains(text(),'NEW CARS')] xpath
+03/08/21 05:33:15 PM ERROR getElement Typing values failed for the element: //div[@id='root']//div[Contains(text(),'NEW CARS')] xpath
+03/08/21 05:33:15 PM ERROR getElement Typing values failed for the element: //div[@id='root']//div[Contains(text(),'NEW CARS')] xpath
+03/08/21 05:33:27 PM ERROR getElement Typing values failed for the element: //div[@id='root']//div[Contains(text(),'NEW CARS')] xpath
+03/08/21 05:33:27 PM ERROR getElement Typing values failed for the element: //div[@id='root']//div[Contains(text(),'NEW CARS')] xpath
+03/08/21 05:33:27 PM ERROR getElement Typing values failed for the element: //div[@id='root']//div[Contains(text(),'NEW CARS')] xpath
+03/08/21 05:33:27 PM ERROR getElement Typing values failed for the element: //div[@id='root']//div[Contains(text(),'NEW CARS')] xpath
+03/08/21 05:38:00 PM ERROR getElement Typing values failed for the element: //div[@id='root']//div[Contains(text(),'NEW CARS')] xpath
+03/08/21 05:38:32 PM ERROR getElement Typing values failed for the element: //div[@id='root']//div[Contains(text(),'NEW CARS')] xpath
+03/08/21 05:38:32 PM ERROR getElement Typing values failed for the element: //div[@id='root']//div[Contains(text(),'NEW CARS')] xpath
+03/08/21 05:53:04 PM ERROR clickElement Element click failed for the element: //div[@id='root']//div[contains(text(),'Find New Cars')] xpath
